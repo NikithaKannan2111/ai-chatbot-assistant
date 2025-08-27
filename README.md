@@ -41,6 +41,20 @@ Future plan: Rebuild this chatbot with **Python + OpenAI API** for a coded versi
 - Deploy coded version on **Streamlit / Heroku**.  
 
 ---
+## 🔐 Security Note
+This app was scanned using **Base44’s Security Check** before publishing.  
+- ✅ No exposed secrets found  
+- ✅ No unauthenticated backend functions  
+- ✅ Row-Level Security (RLS) properly configured (data access restricted to creator/admin)  
+
+This ensures the chatbot is safe to use and share publicly.
+
+---
+
+## 🌐 Live Demo
+Try the chatbot here: [Click to Chat]((https://app--aura-ai-assistant-f92d9e46.base44.app))
+
+---
 
 ## 🌟 About Me
 👩‍💻 **Nikitha Kannan** – Aspiring AI Engineer, CSE Student  
