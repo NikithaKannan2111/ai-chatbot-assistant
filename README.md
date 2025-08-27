@@ -52,7 +52,7 @@ This ensures the chatbot is safe to use and share publicly.
 ---
 
 ## 🌐 Live Demo
-Try the chatbot here: [Click to Chat]((https://app--aura-ai-assistant-f92d9e46.base44.app))
+Try the chatbot here: [Click to Chat](https://app--aura-ai-assistant-f92d9e46.base44.app)
 
 ---
 
