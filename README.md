@@ -59,5 +59,6 @@ Try the chatbot here: [Click to Chat](https://app--aura-ai-assistant-f92d9e46.ba
 ## 🌟 About Me
 👩‍💻 **Nikitha Kannan** – Aspiring AI Engineer, CSE Student  
 - Interested in AI/ML, Chatbots, and Data Science  
-- Building my skills step by step 🚀  
+- Building my skills step by step 🚀
+- 📌 Connect with me: [LinkedIn](www.linkedin.com/in/nikitha-kannan-16314332a)  
  
